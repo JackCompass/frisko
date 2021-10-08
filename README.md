@@ -14,7 +14,7 @@ Frisko is a Chrome Extension that lets you visualize how much time you've spent 
 6. Et Voila! It's now available in your extensions menu!
 
 ### How To Install: Video
-Uploading frisko.mp4…
+https://user-images.githubusercontent.com/22092047/136611984-3ba924e8-8ba8-40e2-8976-955664d03ffa.mp4
 
 ### Components
 - HTML
